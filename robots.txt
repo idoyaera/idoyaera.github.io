@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://idoyaera.github.io/NrY/sitemap_index.txt.gz
+Sitemap: https://idoyaera.github.io/Quv/sitemap_index.txt.gz
+Sitemap: https://idoyaera.github.io/fGC/sitemap_index.txt.gz
+Sitemap: https://idoyaera.github.io/iNj/sitemap_index.txt.gz
+Sitemap: https://idoyaera.github.io/qlr/sitemap_index.txt.gz
+Sitemap: https://idoyaera.github.io/sitemap/sitemap_index.txt.gz
